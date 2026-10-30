@@ -1,6 +1,5 @@
-package gr.aueb.compilers;
+package gr.aueb.compilers.regex;
 
-import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 

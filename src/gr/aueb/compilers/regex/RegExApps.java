@@ -1,4 +1,4 @@
-package gr.aueb.compilers;
+package gr.aueb.compilers.regex;
 
 /**
  * Παραδείγματα Regular Expressions.
